@@ -1,1 +1,1 @@
-# Basic-Python-Projects
+# A repository of basic programs
