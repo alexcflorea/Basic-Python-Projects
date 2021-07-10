@@ -1,1 +1,1 @@
-# A repository of basic programs
+A repository of basic programs
